@@ -85,6 +85,6 @@ spec:
                   
 
 
-#ingress-controller need 
-#pull-secret needed for pulling image form docker hub or any other repository  
+# ingress-controller need 
+# pull-secret needed for pulling image form docker hub or any other repository  
 
