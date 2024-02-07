@@ -6,7 +6,6 @@ on:
     branches: [ master ]
 
 env:
-  ECR_REPOSITORY: wisecow
   EKS_CLUSTER_NAME: Kubernetes-demo 
   AWS_REGION: ap-south-1
 
